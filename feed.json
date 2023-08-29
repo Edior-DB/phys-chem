@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ფიზიკური ქიმიის კონსპექტი",
     "description": "",
-    "home_page_url": "https://edior-db.github.io/phys-chem",
-    "feed_url": "https://edior-db.github.io/phys-chem/feed.json",
+    "home_page_url": "https://phys-chem.delocalized.bond",
+    "feed_url": "https://phys-chem.delocalized.bond/feed.json",
     "user_comment": "",
     "author": {
         "name": "The Delocalized Bond"
     },
     "items": [
         {
-            "id": "https://edior-db.github.io/phys-chem/test-page.html",
-            "url": "https://edior-db.github.io/phys-chem/test-page.html",
+            "id": "https://phys-chem.delocalized.bond/test-page.html",
+            "url": "https://phys-chem.delocalized.bond/test-page.html",
             "title": "Test Page",
             "summary": "This is only a test page",
             "content_html": "\n    <h2 id=\"this-is-only-a-test-page\">\n      This is only a test page\n    </h2>",
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2023-08-29T12:57:04+04:00",
-            "date_modified": "2023-08-29T12:57:04+04:00"
+            "date_modified": "2023-08-29T12:58:58+04:00"
         }
     ]
 }

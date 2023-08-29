@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ფიზიკური ქიმიის კონსპექტი</title>
-    <link href="https://edior-db.github.io/phys-chem/feed.xml" rel="self" />
-    <link href="https://edior-db.github.io/phys-chem" />
-    <updated>2023-08-29T12:57:04+04:00</updated>
+    <link href="https://phys-chem.delocalized.bond/feed.xml" rel="self" />
+    <link href="https://phys-chem.delocalized.bond" />
+    <updated>2023-08-29T12:58:58+04:00</updated>
     <author>
         <name>The Delocalized Bond</name>
     </author>
-    <id>https://edior-db.github.io/phys-chem</id>
+    <id>https://phys-chem.delocalized.bond</id>
 
     <entry>
         <title>Test Page</title>
         <author>
             <name>The Delocalized Bond</name>
         </author>
-        <link href="https://edior-db.github.io/phys-chem/test-page.html"/>
-        <id>https://edior-db.github.io/phys-chem/test-page.html</id>
+        <link href="https://phys-chem.delocalized.bond/test-page.html"/>
+        <id>https://phys-chem.delocalized.bond/test-page.html</id>
 
-        <updated>2023-08-29T12:57:04+04:00</updated>
+        <updated>2023-08-29T12:58:58+04:00</updated>
             <summary>
                 <![CDATA[
                     This is only a test page
