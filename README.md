@@ -1,2 +1,0 @@
-# phys-chem
-test readme

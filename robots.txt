@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://edior-db.github.io/phys-chem/sitemap.xml
